@@ -1,0 +1,40 @@
+{
+  "name": "Relio",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#2C31B7",
+    "light": "#787DFF",
+    "dark": "#0C1085",
+    "anchors": { "from": "#1D21A4", "to": "#3E44D6" }
+  },
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://www.getrelio.com/"
+  },
+  "topbarLinks": [
+    {
+      "name": "Learn More",
+      "url": "https://www.getrelio.com/"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Home",
+      "icon": "house",
+      "url": "https://www.getrelio.com/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "",
+      "pages": [""]
+    }
+  ],
+  "footerSocials": {
+    "website": "https://www.getrelio.com/"
+  }
+}
