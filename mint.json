@@ -46,8 +46,8 @@
     {
       "group": "Product Guides",
       "pages": [
-        "devpal/product-guides/overview",
-        "devpal/product-guides/onboarding",
+        "devpal/product-guides",
+        "devpal/product-guides/onboarding-your-first-git-repositories",
         "devpal/product-guides/automated-discovery",
         "devpal/product-guides/api-studio",
         "devpal/product-guides/defining-ownership",
