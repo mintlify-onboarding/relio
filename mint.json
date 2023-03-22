@@ -23,8 +23,8 @@
   ],
   "anchors": [
     {
-      "name": "Home",
-      "icon": "house",
+      "name": "Learn More",
+      "icon": "circle-info",
       "url": "https://www.getrelio.com/"
     }
   ],
