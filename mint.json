@@ -30,8 +30,31 @@
   ],
   "navigation": [
     {
-      "group": "",
-      "pages": [""]
+      "group": "Introduction",
+      "pages": [
+        "devpal/introduction",
+        "devpal/introduction/introduction",
+        "devpal/introduction/setup",
+        "devpal/introduction/code-collector",
+        "devpal/introduction/security-and-compliance"
+      ]
+    },
+    {
+      "group": "Key Terms",
+      "pages": ["devpal/key-terms"]
+    },
+    {
+      "group": "Product Guides",
+      "pages": [
+        "devpal/product-guides/overview",
+        "devpal/product-guides/onboarding",
+        "devpal/product-guides/automated-discovery",
+        "devpal/product-guides/api-studio",
+        "devpal/product-guides/defining-ownership",
+        "devpal/product-guides/triaging-and-collaboration",
+        "devpal/product-guides/creating-quality-checks",
+        "devpal/product-guides/merging-openapi-specification"
+      ]
     }
   ],
   "footerSocials": {
